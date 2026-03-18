@@ -3,7 +3,7 @@
 In diesem Workshop erstellen und erkunden wir einen **KI-Agenten**, der auf einem einfachen OpenAI-Modell basiert.  
 Wir lernen Schritt für Schritt, wie dieser **folgert** (*= Reason*), **handelt** (*= Act*) und **Tools einsetzt**, um Probleme zu lösen - Schritt für Schritt.
 
-Den Ordner für die Notebooks, mit Google Colab als interaktive Jupyter Coding-Umgebung, findet ihr auf hier [agents-and-tools](https://drive.google.com/drive/folders/1nVud1Nrix308UnljVJjUSqqr7ZN-QyoA?usp=drive_link).
+Den Ordner für die Notebooks, mit Google Colab als interaktive Jupyter Coding-Umgebung, findet ihr hier: [agents-and-tools](https://drive.google.com/drive/folders/1nVud1Nrix308UnljVJjUSqqr7ZN-QyoA?usp=drive_link).
 
 ---
 
